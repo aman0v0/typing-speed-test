@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ## Installation & Usage
 1. Clone this repository:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/typing-speed-test.git
+   git clone https://github.com/aman0v0/typing-speed-test.git
    cd typing-speed-test
    ```
 2. Run the script:
